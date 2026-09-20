@@ -13,7 +13,7 @@ export default function Footer() {
           </a>
           <span className="hidden sm:inline text-gray-300">|</span>
           <a href="mailto:alokkumar.dev@gmail.com" className="hover:text-indigo-600 transition-colors flex items-center gap-1.5">
-            <span className="font-medium">Gmail:</span> alokkumar.dev@gmail.com
+            <span className="font-medium">Gmail:</span> alokpaul.dev@gmail.com
           </a>
         </div>
 
